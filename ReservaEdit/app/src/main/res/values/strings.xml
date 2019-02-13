@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReservaEdit</string>
+    <string name="pago">Información de Facturación</string>
+    <string name="confirma">Realizar Reserva</string>
+</resources>
